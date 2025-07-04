@@ -1,3 +1,3 @@
 # Pramod Nagaraj updated portfolio website
 
-Built using Tailwind CSS and Grok AI
+Built using HTML and Tailwind CSS and Grok AI
